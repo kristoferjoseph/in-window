@@ -12,5 +12,13 @@
     "browse"
   ],
   "author": "@dam",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/in-window.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/in-window/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/in-window#readme"
 }

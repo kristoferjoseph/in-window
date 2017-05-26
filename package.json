@@ -1,0 +1,16 @@
+{
+  "name": "in-window",
+  "version": "1.0.0",
+  "description": "test whether in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test.js | tap-spec"
+  },
+  "keywords": [
+    "window",
+    "test",
+    "browse"
+  ],
+  "author": "@dam",
+  "license": "Apache-2.0"
+}

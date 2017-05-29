@@ -14,5 +14,5 @@ usage
 ```
 var inWindow = require('in-window')
 
-inWindow() && window.document.querySelector('.thing')
+inWindow && window.document.querySelector('.thing')
 ```
